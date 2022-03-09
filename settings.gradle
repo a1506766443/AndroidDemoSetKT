@@ -1,2 +1,2 @@
-include ':app', ':kt_base'
+include ':app', ':kt_base', ':jetpackdemo', ':jetpackdemolib'
 rootProject.name='AndroidDemoSetKT'
